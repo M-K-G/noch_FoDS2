@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1563537800753.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "444480577",
+    "id" : "A481AF45",
+    "lastKnownWriteTime" : 1563537707,
+    "last_content_update" : 1563537707,
+    "path" : "~/RProjects/noch_FoDS2/scripts/NRness_01_cleaning.R",
+    "project_path" : "scripts/NRness_01_cleaning.R",
+    "properties" : {
+        "cursorPosition" : "28,2",
+        "scrollLine" : "29"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
